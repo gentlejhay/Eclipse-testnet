@@ -174,5 +174,3 @@ echo -e "${GREEN}Save this Private Key in a safe place. If there is any airdrop 
 echo
 echo -e "${GREEN}Script Executing Completed${NC}"
 echo
-echo -e "${YELLOW}Follow me on Twitter for more guide like this : @ZunXBT${NC}"
-echo
